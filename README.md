@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudegh&show_icons=true&locale=en" alt="sudegh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudegh&" alt="sudegh" /></p>
+
+
+![snake gif](https://github.com/SudenazAyoglu/SudenazAyoglu/blob/output/github-contribution-grid-snake.gif)
